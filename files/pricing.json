@@ -1,0 +1,18 @@
+{
+    "Dólar Oficial": {
+      "date": "2023-05-08",
+      "price": 325.5
+    },
+    "Dólar Blue": {
+      "date": "2023-05-08",
+      "price": 420 
+    },
+     "Pesos Chilenos": {
+      "date": "2023-05-08",
+      "price": 0.27
+    },
+    "Euros": {
+      "date": "2023-05-08",
+      "price": 512
+    }
+  }
